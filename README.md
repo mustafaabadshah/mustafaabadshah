@@ -1,68 +1,81 @@
+<div align="center">
+
 # Syed Mustafa Badshah
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-AI/ML Engineer | Generative AI Specialist | MLOps Practitioner
-🏆 Awarded **Student of the Batch 2026** at Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology (PAF-IAST) for highest academic achievement, leadership, and technical innovation.
-📍 Haripur / Malakand, Pakistan | 📞 +92 340 9509382 | 📧 [mianmustafa926@gmail.com](mailto:mianmustafa926@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/syedmustafabadshah) | 🌐 [Portfolio Website](https://mustafaabadshah.github.io/)
-## 👨‍💻 About Me
-I am a highly driven AI/ML Engineer and MLOps Practitioner dedicated to building scalable intelligence. My trajectory at Pak-Austria Fachhochschule (PAF-IAST) culminated in being named Student of the Batch 2026, a testament to my academic rigor and technical leadership. My professional experience spans from an apprenticeship at the Sino-Pak Center for Artificial Intelligence (SPCAI), where I focused on industrial computer vision and edge deployment, to engineering production-grade Generative AI pipelines and agentic workflows at GlaxIT. During an international internship with Advance Telecom Services (ATS, USA), I developed cloud-native ML applications on Azure. Beyond engineering, I have led a community of 300+ developers as Vice President of the AI Society and fostered entrepreneurship as Campus Director for the Hult Prize Foundation.
-## 🛠️ Technical Stack & Skills
 
+### AI/ML Engineer · Generative AI · MLOps · Urdu NLP
 
+<p>
+  <a href="https://github.com/mustafaabadshah"><img src="https://img.shields.io/badge/GitHub-mustafaabadshah-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/syedmustafabadshah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:mianmustafa926@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-| Category |
- Skills |
-| :--- |
- :--- |
-| AI & Deep Learning |
- PyTorch, TensorFlow, Keras, CNNs (VGG16/VGG19), RNNs (LSTM, Bi-LSTM, GRU), YOLOv5, OpenCV, Scikit-learn, LightGBM, Keras Tuner |
-| Generative AI |
- RAG Architectures, Prompt Engineering, Agentic AI, Autonomous Workflows, Semantic Search & Embeddings, spaCy, NLTK, LLM API integration |
-| MLOps & DevOps |
- Docker, Kubernetes (CKAD Coursework), GitHub Actions CI/CD, FastAPI, REST APIs, n8n Workflow Automation, Model Monitoring & Optimization |
-| Cloud & Data |
- Microsoft Azure (Azure ML Studio), Streamlit Cloud, PostgreSQL, MongoDB, MySQL, SQLite, ETL Pipelines |
-| Languages & Analytics |
- Python, C++, C#, SQL, DAX, Power BI, Matplotlib, Seaborn |
+<p>
+  I build practical AI systems that connect research, evaluation, and production: from<br>
+  Urdu-language model benchmarking and RAG evaluation to computer vision and MLOps pipelines.
+</p>
 
-## 🌟 Featured Projects
-### 🏭 Industrial AI-Powered Fabric Classification System
-**Problem Statement:** Automating quality control for U.S. Denim Mills to classify fabric defects with extreme precision.
-- **Architecture:** Co-developed a deep CNN-based system (VGG/PyTorch) achieving **99.96% accuracy** across 21 main classes and 105 sub-categories.
-- **Tech Stack:** FastAPI backend, Flutter mobile interface, PostgreSQL, React dashboard.
-### 🎙️ NewsNinja – AI-Powered Audio Briefing Engine
-**Problem Statement:** Synthesizing vast amounts of news and Reddit data into digestible daily audio podcasts.
-- **Architecture:** Automated web crawling via Bright Data with LLM semantic summarization for audio synthesis.
-- **Tech Stack:** FastAPI, Streamlit, ElevenLabs, gTTS.
-### 🛡️ Windows Event Log Threat Classifier
-**Problem Statement:** Detecting sequential cybersecurity anomalies in system logs.
-- **Architecture:** Threat detection using LSTM, Bi-LSTM, and GRU networks; automated log vectorization via n8n.
-- **Tech Stack:** PyTorch, n8n, MongoDB.
-### 🩺 Context-Aware Medical Chatbot
-- Clinical decision support system utilizing RAG architecture, spaCy, NLTK, and FastAPI.
-### 🧠 Brain Tumor MRI Detection
-- Transfer learning with VGG19 and data augmentation for binary tumor classification.
-### 🐾 Multi-Animal Video Tracking
-- Multi-object tracking implementation using Kalman filtering and OpenCV appearance descriptors.
-### 📈 Multimodal Stock Movement Prediction
-- Integration of market time-series price data with financial news sentiment analysis.
-### 📊 Enterprise Power BI Dashboards
-- Manufacturing KPI telemetry and sales visual analytics with advanced DAX modeling.
-## 💼 Professional Experience
-- **Junior AI Engineer** | GlaxIT (Nov 2025 – Apr 2026)
-- **AI & Computer Vision Apprentice** | SPCAI (Nov 2024 – May 2026)
-- **Machine Learning Intern** | ATS (Remote USA) (Jul 2024 – Sep 2024)
-## 👥 Leadership & Impact
-- **Vice President & PR Director** | AI Society PAF-IAST (Aug 2023 – Sep 2024)
-- **Campus Director** | Hult Prize Foundation (Jun 2023 – Jun 2024)
-- **Student Ambassador** | GlaxIT (Feb 2025 – Present)
-## 🎓 Education & Certifications
-- 🥇 **Student of the Batch 2026** (PAF-IAST BSCS)
-- CKAD Coursework & Exam Preparation (Certified Kubernetes Application Developer)
-- Azure ML Studio Pipelines (Coursera)
-- DeepLearning.AI AI for Everyone
-- DataCamp GitHub Concepts & Introduction to ChatGPT
-## 📈 GitHub Stats & Connect
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaabadshah&show_icons=true&theme=radical)
-![Mustafa's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mustafaabadshah&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaabadshah&layout=compact&theme=radical)
+</div>
+
+## About me
+
+- AI/ML Engineer focused on **generative AI, NLP, computer vision, and reliable ML systems**.
+- Building evaluation tooling for **Urdu and Roman Urdu AI** and framework-agnostic **RAG quality measurement**.
+- Experienced with end-to-end workflows: experimentation, APIs, deployment, monitoring, and reproducibility.
+- Based in Pakistan; open to thoughtful collaboration on applied AI and open-source projects.
+
+## Featured work
+
+| Project | What it does | Technologies |
+| --- | --- | --- |
+| [Urdu-Eval](https://github.com/mustafaabadshah/Urdu-Eval) | Evaluation harness for Urdu and Roman Urdu AI, with benchmark adapters, providers, normalization, metrics, diagnostics, and reproducible reports. | Python, CLI, Ollama, OpenAI, Anthropic, Hugging Face |
+| [rag-eval](https://github.com/mustafaabadshah/rag-eval) | Framework-agnostic scoring for RAG retrieval precision and answer faithfulness, available as a Python package, CLI, and FastAPI service. | Python, FastAPI, pytest, Hatch |
+| [Chest CT Classification MLOps](https://github.com/mustafaabadshah/Chest-CT-Scan-Classification-MLOps) | End-to-end chest CT disease classification pipeline covering data ingestion, training, evaluation, experiment tracking, and serving. | TensorFlow, VGG16, DVC, MLflow, Docker, Flask |
+| [NewsNinja](https://github.com/mustafaabadshah/AI-powered-news-and-Reddit-audio-summarizer) | Collects news and Reddit content, summarizes it with AI, and produces audio briefings through a web interface. | FastAPI, Streamlit, Bright Data, ElevenLabs, gTTS |
+| [Chat with PDF](https://github.com/mustafaabadshah/chat-with-pdf-using-RAG-DeepSeek) | Local document question-answering application using retrieval-augmented generation. | Python, LangChain, Streamlit, Ollama, DeepSeek |
+| [Portfolio](https://mustafaabadshah.github.io) | Personal website and project showcase. | HTML |
+
+## Technical toolkit
+
+### AI and machine learning
+
+`Python` · `PyTorch` · `TensorFlow` · `Keras` · `scikit-learn` · `LightGBM` · `OpenCV` · `spaCy` · `NLTK` · `YOLO` · `CNNs` · `LSTM` · `GRU` · `transfer learning`
+
+### Generative AI and data
+
+`RAG` · `LLM evaluation` · `prompt engineering` · `agents` · `embeddings` · `semantic search` · `LangChain` · `Ollama` · `OpenAI` · `Anthropic` · `PostgreSQL` · `MongoDB` · `MySQL` · `SQLite`
+
+### MLOps and application engineering
+
+`FastAPI` · `Flask` · `Streamlit` · `REST APIs` · `Docker` · `Kubernetes` · `DVC` · `MLflow` · `GitHub Actions` · `Jenkins` · `AWS ECR/EC2` · `Azure ML`
+
+### Languages and analytics
+
+`Python` · `C++` · `C#` · `SQL` · `DAX` · `Power BI` · `Matplotlib` · `Seaborn`
+
+## Background
+
+- **Junior AI Engineer** — GlaxIT
+- **AI & Computer Vision Apprentice** — SPCAI
+- **Machine Learning Intern** — ATS (Remote, USA)
+- **Vice President & PR Director** — AI Society, PAF-IAST
+- **Campus Director** — Hult Prize Foundation
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafaabadshah&show_icons=true&theme=radical&hide_border=true" alt="Mustafa's GitHub statistics" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaabadshah&layout=compact&theme=radical&hide_border=true" alt="Most-used languages" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaabadshah&theme=radical&hide_border=true" alt="Mustafa's GitHub streak">
+</p>
+
+## Let's connect
+
+If you are working on applied AI, multilingual NLP, RAG systems, or production ML, feel free to [reach out by email](mailto:mianmustafa926@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/syedmustafabadshah).
+
 ---
-Let's connect! 🤝
+
+<p align="center"><i>Building useful, measurable, and deployable intelligence.</i></p>
