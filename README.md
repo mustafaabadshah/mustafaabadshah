@@ -2,9 +2,9 @@
 
 # Mustafa Badshah
 
-### AI/ML Engineer • Deep Learning • Agentic AI • MLOps
+### AI/ML Engineer | Deep Learning | LLMs | RAG | MLOps
 
-Building practical AI systems, LLM-powered apps, and production-ready ML pipelines.
+Building production-ready AI systems, intelligent applications, and scalable ML pipelines for real-world impact.
 
 <p>
   <a href="https://github.com/mustafaabadshah"><img src="https://img.shields.io/badge/GitHub-mustafaabadshah-181717?style=for-the-badge&logo=github" alt="GitHub Profile" /></a>
@@ -13,7 +13,7 @@ Building practical AI systems, LLM-powered apps, and production-ready ML pipelin
   <a href="mailto:mianmustafa926@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" /></a>
 </p>
 
-AI/ML Engineer | LLM Developer | RAG Systems | Deep Learning | MLOps
+AI/ML Engineer • Deep Learning • Generative AI • LLM Applications • RAG • MLOps
 
 </div>
 
@@ -21,18 +21,17 @@ AI/ML Engineer | LLM Developer | RAG Systems | Deep Learning | MLOps
 
 ## About Me
 
-I am an AI/ML engineer focused on building intelligent systems that solve real-world problems using machine learning, deep learning, generative AI, and MLOps practices.
+I am an AI/ML Engineer focused on building intelligent systems that solve practical business and technical problems using machine learning, deep learning, generative AI, and MLOps best practices.
 
 My work spans:
-
 - Large Language Models (LLMs) and Generative AI
-- Retrieval-Augmented Generation (RAG) systems
-- NLP and multilingual AI workflows
-- Deep learning and computer vision
-- End-to-end MLOps and deployment pipelines
-- Full-stack AI and web-based prototypes
+- Retrieval-Augmented Generation (RAG)
+- NLP and multilingual AI systems
+- Deep Learning and Computer Vision
+- Production-ready ML pipelines and deployment workflows
+- Full-stack AI product development
 
-I enjoy turning ideas into working, production-ready solutions and contributing to open-source AI tooling.
+I enjoy turning ideas into deployable, scalable, and measurable AI solutions while contributing to open-source AI tooling.
 
 ---
 
@@ -45,74 +44,67 @@ Python • PyTorch • TensorFlow • Keras • Scikit-Learn • XGBoost • Lig
 LLMs • GPT • OpenAI API • Anthropic • Ollama • Prompt Engineering • RAG • Semantic Search • Vector Search
 
 ### NLP / Computer Vision
-NLP • Text Processing • Transformers • OCR • Computer Vision • CNN • Transfer Learning • Medical Imaging
+NLP • Transformers • Text Processing • Computer Vision • CNN • Transfer Learning • Medical Imaging
 
 ### MLOps / Deployment
-MLOps • MLflow • DVC • Docker • CI/CD • FastAPI • Flask • Streamlit • AWS • Azure • Cloud Deployment
+MLOps • MLflow • DVC • Docker • CI/CD • FastAPI • Flask • Streamlit • AWS • Azure
 
-### Data / Web
-Pandas • NumPy • SQL • MongoDB • REST APIs • Frontend/Backend Integration • Product-focused AI Apps
+### Product / Engineering
+REST APIs • Full-Stack AI Apps • End-to-End ML Workflows • Data Pipelines • Software Engineering
 
 ---
 
 ## Featured Projects
 
 ### [Urdu-Eval](https://github.com/mustafaabadshah/Urdu-Eval)
-Evaluation framework for Urdu and Roman Urdu LLM benchmarking.
+LLM evaluation framework for Urdu and Roman Urdu benchmarking.
 
-- Multilingual LLM evaluation
-- Benchmarking for QA, reasoning, translation, and summarization
-- CLI-based workflow and report generation
-- Supports local and cloud LLM providers
+- Multilingual model assessment
+- QA, reasoning, translation, and summarization benchmarks
+- CLI-driven evaluation workflow
+- Designed for production AI evaluation
 
 ### [rag-eval](https://github.com/mustafaabadshah/rag-eval)
-Framework-agnostic toolkit for evaluating RAG pipelines.
+Evaluation toolkit for analyzing RAG pipelines and answer quality.
 
 - Retrieval quality metrics
-- Faithfulness and answer quality evaluation
-- Supports Python, CLI, and FastAPI workflows
-- Built for production-style LLM checks
+- Faithfulness and answer evaluation
+- Framework-agnostic implementation
+- Useful for production LLM systems
 
 ### [Chest CT Scan Classification - MLOps](https://github.com/mustafaabadshah/Chest-CT-Scan-Classification-MLOps)
 End-to-end deep learning and MLOps project for medical image classification.
 
-- CNN + transfer learning
-- Experiment tracking and versioning
-- Model serving and Docker packaging
-- Deployment-focused ML pipeline
+- Transfer learning with CNNs
+- Experiment tracking and model versioning
+- Deployment-ready ML workflow
+- Dockerized and production-oriented structure
 
 ### [Chat with PDF using RAG + DeepSeek](https://github.com/mustafaabadshah/chat-with-pdf-using-RAG-DeepSeek)
-Local document Q&A system built with RAG and DeepSeek.
+Document Q&A system built using RAG and local LLM workflows.
 
-- PDF ingestion and chunking
-- Embeddings and retrieval workflow
+- PDF processing and chunking
+- Embedding-based retrieval
 - LLM-powered answer generation
-- Streamlit interface
+- Streamlit-based user interface
 
 ### [AI-Powered News & Reddit Audio Summarizer](https://github.com/mustafaabadshah/AI-powered-news-and-Reddit-audio-summarizer)
-Generative AI app that aggregates content and turns it into summaries/audio.
+Generative AI application for real-time content summarization and audio generation.
 
-- News + Reddit content aggregation
-- LLM summarization
-- Audio generation
-- Streamlit + FastAPI stack
-
-### [ufone-franchise-pos](https://github.com/mustafaabadshah/ufone-franchise-pos)
-Business operations and point-of-sale system built as a practical full-stack product.
-
-- TypeScript-based application
-- Operational dashboard and workflow tooling
-- Product-focused software implementation
+- Content aggregation
+- LLM-based summarization
+- Text-to-speech audio output
+- Full-stack AI application
 
 ---
 
-## Open Source & Contributions
+## Open Source Contributions
 
-I enjoy building useful AI tooling and contributing to open-source projects in the ML and LLM space.
+I actively build and contribute to practical AI and open-source projects focused on ML systems, evaluation tooling, and LLM workflows.
 
-- [rag-eval](https://github.com/mustafaabadshah/rag-eval) — LLM/RAG evaluation toolkit
-- [Urdu-Eval](https://github.com/mustafaabadshah/Urdu-Eval) — multilingual model evaluation framework
-- [haystack-core-integrations](https://github.com/mustafaabadshah/haystack-core-integrations) — contribution in the Haystack ecosystem
+- [rag-eval](https://github.com/mustafaabadshah/rag-eval)
+- [Urdu-Eval](https://github.com/mustafaabadshah/Urdu-Eval)
+- [haystack-core-integrations](https://github.com/mustafaabadshah/haystack-core-integrations)
 
 ---
 
@@ -140,7 +132,7 @@ I enjoy building useful AI tooling and contributing to open-source projects in t
 ## Education
 
 - BSc in Computer Science — PAF-IAST
-- Continued learning in AI, LLMs, MLOps, and applied software engineering
+- Continuous learning in AI, LLMs, MLOps, and applied software engineering
 
 ---
 
@@ -164,7 +156,7 @@ I enjoy building useful AI tooling and contributing to open-source projects in t
 - Portfolio: [mustafaabadshah.github.io](https://mustafaabadshah.github.io)
 - GitHub: [@mustafaabadshah](https://github.com/mustafaabadshah)
 
-I am open to opportunities in AI/ML engineering, LLM applications, MLOps, and production-grade intelligent systems.
+Open to opportunities in AI/ML engineering, LLM applications, MLOps, and production-grade intelligent systems.
 
 <p align="center">
   <i>Building useful, measurable, and deployable AI intelligence.</i>
