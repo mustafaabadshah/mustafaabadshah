@@ -46,7 +46,7 @@ LangGraph • LangChain • LlamaIndex • FastAPI • Flask • REST APIs • S
 Docker • Kubernetes • GitHub Actions • Jenkins • MLflow • DVC • Microsoft Azure • Azure ML Studio • AWS (ECR/EC2)
 
 ### Knowledge Graphs & Automation
-Neo4j • Cypher • NetworkX • AST-based Analysis • n8n • ETL • Power BI • DAX
+Neo4j • Cypher • NetworkX • AST-based Analysis • n8n • ETL • Power BI • DAX GraphDB
 
 ---
 
